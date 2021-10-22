@@ -1,0 +1,6 @@
+Credentials cache: API:808AE5D9-F492-4EF4-A544-4F0EAF4D7305
+        Principal: msainton@42.FR
+
+  Issued                Expires               Principal
+Mar 16 08:19:16 2021  Mar 23 08:19:16 2021  krbtgt/42.FR@42.FR
+Mar 16 08:19:16 2021  Mar 23 08:19:16 2021  HTTP/student-storage-2.42.fr@42.FR
